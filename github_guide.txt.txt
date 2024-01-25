@@ -1,7 +1,6 @@
 Git Hub account creation:
 
-Step1)
-Create Github account:
+Step1)Create Github account:
 https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
 
 Email:satish.sukumaran26@gmail.com
@@ -24,14 +23,24 @@ Right click and open Gitbash
 
 a)Execute git clone https://github.com/satish262024/SatishPythonSeleniumTraining.git
 It will create a floder in C:\PythonSeleniumTraining with repository name SatishPythonSeleniumTraining
-Now go to the folder created cd SatishPythonSeleniumTraining
+Now go to the folder created -> cd SatishPythonSeleniumTraining
 
-b) git status->if no file inside the folder,the file will be highlighted with red color
-Now add/copy the file in the folder->SatishPythonSeleniumTraining and do git status
+b)Now add/copy the file->github_guide.txt, in the folder->SatishPythonSeleniumTraining and do git status
+git status->if files are not added then the file will be highlighted with red color
+
+e)Now do git add github_guide.txt and do git status
 Now file will be highlighted with green
-c) git commit -m "this is my first file"
-d) git push
+
+f) git commit -m "this is my first file"
+g) git push
+
 Now file will be pushed to github repository.
+
+Every time you do the chnages to your file do git status and check the color highlighted in red or green?
+Do git add file name
+Do git commit
+Do git push
+
 
 
 
