@@ -1,0 +1,38 @@
+Git Hub account creation:
+
+Step1)
+Create Github account:
+https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
+
+Email:satish.sukumaran26@gmail.com
+user name:satish262024
+password:1ds08ec407@
+Git hub account will be created.
+
+Step 2)Now create the repository(Public)
+Repository path:
+https://github.com/satish262024/SatishPythonSeleniumTraining.git
+
+step3) Install Git client on your laptop.
+Git client path to be installed on laptop:
+https://git-scm.com/download/win
+
+step4) Now Go to PythonSeleniumTraining folder created for project
+C:\PythonSeleniumTraining
+
+Right click and open Gitbash
+
+a)Execute git clone https://github.com/satish262024/SatishPythonSeleniumTraining.git
+It will create a floder in C:\PythonSeleniumTraining with repository name SatishPythonSeleniumTraining
+Now go to the folder created cd SatishPythonSeleniumTraining
+
+b) git status->if no file inside the folder,the file will be highlighted with red color
+Now add/copy the file in the folder->SatishPythonSeleniumTraining and do git status
+Now file will be highlighted with green
+c) git commit -m "this is my first file"
+d) git push
+Now file will be pushed to github repository.
+
+
+
+
